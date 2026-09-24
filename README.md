@@ -1,2 +1,2 @@
 # The iclock
-This is an alarm clock that i have built as a present for my brother
+This is an alarm clock that I built as a present for my brother
