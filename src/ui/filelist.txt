@@ -1,0 +1,13 @@
+ui_Screen1.c
+ui.c
+ui_comp_hook.c
+ui_helpers.c
+ui_img_alarm_icon_png.c
+ui_img_sole_png.c
+ui_img_luna_png.c
+ui_img_nebbia_png.c
+ui_img_neve_png.c
+ui_img_nuvoloso_png.c
+ui_img_temporale_png.c
+ui_img_pioggia_png.c
+fonts/ui_font_segment.c
